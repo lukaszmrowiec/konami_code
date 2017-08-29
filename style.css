@@ -1,0 +1,18 @@
+#issues {
+  position: absolute; 
+  width: 90%;
+  top: 3em;
+  list-style-type: none;
+  margin-top: 2em;
+  display: none;
+}
+
+#issues li  { 
+  border: 1px solid #ddd;
+  margin-top: -1px;
+  background-color: #f6f6f6;
+  padding: 0.5em;
+  text-decoration: none;
+  font-size: 1.2em;
+  color: black;
+}
